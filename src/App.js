@@ -6,6 +6,7 @@ function App() {
   return (
     <Provider store={store}>
       <Tasks></Tasks>
+      {/* <Tasks></Tasks> */}
     </Provider>
   );
 }
